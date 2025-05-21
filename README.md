@@ -145,9 +145,3 @@ git push origin fitur-baru
 
 ---
 
-## 📬 Kontak
-
-📧 Email: layarkita.project@gmail.com  
-📱 Instagram: [@layarkita.app](https://instagram.com/layarkita.app)
-
----
