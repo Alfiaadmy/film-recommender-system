@@ -127,21 +127,3 @@ http://localhost:8501
 
 ---
 
-## 🤝 Kontribusi
-
-Jika Anda ingin berkontribusi dalam pengembangan LayarKita:
-
-1. Fork repo ini
-2. Buat branch baru:
-```bash
-git checkout -b fitur-baru
-```
-3. Commit perubahan Anda
-4. Push ke branch:
-```bash
-git push origin fitur-baru
-```
-5. Buat pull request
-
----
-
